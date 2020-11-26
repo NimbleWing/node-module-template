@@ -2,6 +2,9 @@
   "name": "node-module-name",
   "version": "1.0.0",
   "main": "index.js",
+  "bin": {
+    "node-module-name": "bin/node-module-name"
+  },
   "scripts": {
     "commit": "git-cz",
     "build": "babel src -d dist",
