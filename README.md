@@ -8,7 +8,6 @@
 
 ```shell
 $ npm <%= scopeName %>/<%= moduleName %>
-
 ```
 
 # Usage
